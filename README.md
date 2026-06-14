@@ -43,5 +43,3 @@ Repository layout (important files)
 - `core/` — scanner, image processing, session management, exporter
 - `ui/` — GUI windows and dialogs
 
-License
-- No license file included. Add a `LICENSE` if you wish to publish this repository.
