@@ -1,0 +1,44 @@
+{
+    "scanner_device": "No Scanner Found",
+    "scanner_resolution_dpi": 300,
+    "scanner_colour_mode": "Color",
+    "scanner_paper_size": "A4",
+    "use_adf": false,
+    "export_folder": "C:\\Users\\lkjas\\Documents\\MyDocs",
+    "dpi_versions": [
+        150,
+        300
+    ],
+    "keep_original": true,
+    "create_pdf": true,
+    "pdf_compression": "Medium",
+    "auto_deskew": true,
+    "auto_crop_enabled": true,
+    "auto_crop_margin": 10,
+    "theme": "Dark",
+    "family_members": [
+        "Sunil Kumar",
+        "Lakshey Kumar",
+        "Preeti",
+        "Manisha Devi",
+        "Dhruv",
+        "Sumitra Devi",
+        "Common",
+        "Ramswroop"
+    ],
+    "document_types": [
+        "Aadhaar",
+        "PAN",
+        "Medical",
+        "Certificate",
+        "Family Id",
+        "10Th Marksheet",
+        "12Th Marksheet",
+        "Caste Certificate Obc",
+        "Caste Certificate Bca",
+        "Ration Card",
+        "Death"
+    ],
+    "log_level": "ERROR",
+    "keep_temp_files": false
+}

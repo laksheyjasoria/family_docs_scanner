@@ -1,0 +1,9 @@
+customtkinter>=5.2.2
+Pillow>=10.4.0
+opencv-python>=4.9.0.80
+reportlab>=4.2.0
+pywin32>=306
+comtypes>=1.2.1
+darkdetect>=0.8.0
+pythonnet>=3.0.3
+numpy>=1.26.0
